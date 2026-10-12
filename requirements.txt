@@ -1,0 +1,15 @@
+ultralytics>=8.0.134
+opencv-python
+lap
+cython_bbox
+torch>=1.13.1
+torchvision>=0.14.1
+streamlit
+supervision
+pyyaml
+numpy
+pandas
+tqdm
+pycocotools
+timm
+loguru
